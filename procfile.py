@@ -1,0 +1,1 @@
+web : shsetup.sh && streamlitrunapp.py
